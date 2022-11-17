@@ -1,0 +1,10 @@
+body {
+    background: lightblue;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+}
